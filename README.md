@@ -4,7 +4,7 @@ Python Package for Edge Drawing Algorithm and Line detection。 Related Paper:
 
 https://www.sciencedirect.com/science/article/pii/S1047320312000831
 
-C++ Realization:
+C++ Implementaion:
 https://github.com/hongxinliu/edge-drawing
 
 
